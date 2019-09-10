@@ -146,8 +146,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 464536237}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.086, y: -7, z: 0}
-  m_LocalScale: {x: 7.8843055, y: 1.916156, z: 1}
+  m_LocalPosition: {x: 5.67, y: -10.87, z: 0}
+  m_LocalScale: {x: 24.852703, y: 7.2131634, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
@@ -544,8 +544,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1852173355}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.05, y: 3.553, z: 10}
-  m_LocalScale: {x: 2.9566617, y: 1.5599681, z: 1}
+  m_LocalPosition: {x: 4.9, y: 15.3, z: 10}
+  m_LocalScale: {x: 6.4286814, y: 3.2957897, z: 1}
   m_Children: []
   m_Father: {fileID: 519420032}
   m_RootOrder: 0
@@ -557,7 +557,7 @@ SurfaceEffector2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1852173355}
-  m_Enabled: 1
+  m_Enabled: 0
   m_UseColliderMask: 1
   m_ColliderMask:
     serializedVersion: 2
